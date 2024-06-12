@@ -11,7 +11,7 @@ const About = (props) => {
         <title>SAFIN TRAVEL</title>
       </Helmet>
       <span className="about-text">
-        <span>🛩️ Турпакеты </span>
+        <span>🛩️ Турпакеты</span>
         <br></br>
         <span>🎫 Авиабилеты</span>
         <br></br>
