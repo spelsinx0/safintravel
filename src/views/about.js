@@ -36,7 +36,7 @@ const About = (props) => {
             className="about-img90441"
           />
           <a
-            href="https://yandex.uz/maps/10334/samarkand/house/Yk8YfwJnSU0OQF1jfXp0dH1rZg==/?ll=66.957262%2C39.655424&amp;z=16"
+            href="https://yandex.uz/maps/org/safin_travel/14324553909/?ll=66.957088%2C39.655182&z=17.11"
             target="_blank"
             rel="noreferrer noopener"
             className="about-frame00-button"
