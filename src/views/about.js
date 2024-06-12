@@ -21,7 +21,7 @@ const About = (props) => {
         <div className="about-group">
           <div className="about-group2">
             <div className="about-navigation">
-              <span className="about-text06">ИНСТАГРАМ</span>
+              <span onclick="window.location='https://www.instagram.com/safin_travel'" className="about-text06">>ИНСТАГРАМ</span>
               <img
                 alt="SocialIcons1153"
                 src="/external/socialicons1153-8i0s.svg"
