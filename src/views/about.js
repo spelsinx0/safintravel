@@ -8,14 +8,14 @@ const About = (props) => {
   return (
     <div className="about-container">
       <Helmet>
-        <title>exported project</title>
+        <title>SAFIN TRAVEL</title>
       </Helmet>
       <span className="about-text">
         <span>🛩️ Турпакеты </span>
         <br></br>
         <span>🎫 Авиабилеты</span>
         <br></br>
-        <span> 🏖 Отдых в любую точку мира </span>
+        <span>🏖 Отдых в любую точку мира</span>
       </span>
       <div className="about-about">
         <div className="about-group">
